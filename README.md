@@ -9,3 +9,4 @@
 > #IMPORTANT: place your heroku link here
 > HEROKU_LINK = '...'
 
+tg.py is entry point for this programm
